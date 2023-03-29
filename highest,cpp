@@ -1,4 +1,4 @@
- #include <iostream>
+ #include<iostream>
 using namespace std;
 int main()
     int a[5]={34,55,21,3,5},i,high,low;
